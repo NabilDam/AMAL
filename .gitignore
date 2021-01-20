@@ -1,0 +1,6 @@
+.DS_Store
+TME/nn_boston_tme2/runs/*
+*/runs
+*/runs/*
+TME/auto_encodeur_tme3/runs/
+TME/*/runs
